@@ -4,3 +4,4 @@ cal
 echo "bye"
 echo "finally bye"
 echo "bye"
+echo "fucked"
